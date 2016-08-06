@@ -24,7 +24,7 @@ For example:
 ```
 ../*
 ```
-Will select all files from upper level of file structure according to current location (which is probably the folder with snooperl.pl).
+This will select all files from upper level of file structure according to current location (which is probably the folder with snooperl.pl).
 
 **2. Specify the file extension of files you look for.**
 
@@ -32,7 +32,7 @@ For example:
 ```
 .txt (or just txt)
 ```
-Will select all .txt files.
+This will select all .txt files.
 
 If you pass these informations correctly, you will recieve info how many files were found.
 
