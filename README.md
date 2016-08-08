@@ -1,5 +1,6 @@
 # snooperl
 > v.0.1.0
+
 Small application written in **PERL** which searches for defined string among specific files and replaces it with another one.
 
 Useful in situations where you can not do such replacement manually, e.g., you have 10000 files to deal with.
